@@ -1,4 +1,4 @@
-<!-- 
+<!--
   <<< Author notes: Header of the course >>> 
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
@@ -46,16 +46,46 @@ Here’s an example of a Campus Expert profile README
 
 ## Start Here
 
-1. **What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+# Hi there! 👋 I'm Nishant Suthar
 
-2. **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
-<br>:tv: [Video: Exploring a repository](https://www.youtube.com/watch?v=R8OAwrcMlRw)
-3. **Course tips:**
-GitHub will display your profile README on your profile page if all of the following are true:
- - You've created a repository with a name that matches your GitHub username.
- - The repository is public.
- - The repository contains a file named README.md in its root.
- - The README.md file contains any content.
+🎓 **Cybersecurity Major** | 💻 **Ethical Hacking Enthusiast** | 🌐 **Future IIT Transfer**
+
+---
+
+## About Me
+I'm a second-year student pursuing an Associate in Science in Cybersecurity at College of DuPage, with plans to transfer to Illinois Institute of Technology (IIT) in 2026. My goal is to become a cybersecurity professional, focusing on ethical hacking and safeguarding digital environments.
+
+---
+
+## What I'm Working On
+- 📚 Preparing for the **ISC2 Certified in Cybersecurity (CC)** exam.
+- 🔧 Transforming my Acer Chromebook into a portable ethical hacking toolkit.
+- 💼 Building skills in programming, networking, and penetration testing.
+
+---
+
+## Interests
+- Ethical hacking and penetration testing 🛡️
+- AI and automation in cybersecurity 🤖
+- Cybersecurity education and mentorship 📘
+
+---
+
+## Skills & Tools
+- **Languages:** Python, C++, JavaScript, HTML/CSS
+- **Cybersecurity Tools:** Kali Linux, Wireshark, Metasploit
+- **Certifications:** ISC2 Certified in Cybersecurity (in progress)
+- **Tech Stack:** Linux, Git/GitHub, Networking Fundamentals
+
+---
+
+## Let's Connect!
+- 📧 Email: nishantsuthar1408@outlook.com
+- 🌐 LinkedIn: www.linkedin.com/in/nishant-suthar-2a9331323
+---
+
+## Fun Fact
+I'm the first person in my family to go to college! 🌟
 
 
 </details>
